@@ -1,5 +1,5 @@
 import '@/styles/globals.css'
-import { wrapper } from '../../store';
+import { wrapper } from '../store';
 
 function App({ Component, pageProps }) {
   return <Component {...pageProps} />

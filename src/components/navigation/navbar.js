@@ -22,6 +22,14 @@ function NavBar() {
           <label >Menu</label>
         </div>
 
+        <div>
+          
+        </div>
+
+        <div>
+
+        </div>
+
         <div class="inline-flex items-center gap-2 list-none lg:ml-auto">
           <Link
             href="/"
